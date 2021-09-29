@@ -1,0 +1,15 @@
+Business aacct
+Email ID:
+sb-kgwgk7715318@business.example.com
+System Generated Password:
+ED5.*vaV
+
+client ID: AY0bs_4cHTbNws4Sdu1r9b2q7gj7iNon_pGj_UIGIoecNjf5giS7pz34adlWGQPz5fk3d9FrKmcC7MC8
+secret: EGmoHpGscNSCQ8yWzy-HseFbpDVW9sMDGQpRUngAVB9_qxr5D62fy5KrUdDbaPJm3h3yfbgpVFmCOO2P
+
+
+Personal
+Email ID:
+sb-znkzi7722213@personal.example.com
+System Generated Password:
+a$2mV&W5
